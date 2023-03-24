@@ -1,0 +1,165 @@
+#completo {
+    color: #c6d0f5;
+    font-weight: lighter;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+    background-color: #303446;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    animation: backwards;
+}
+#titulo {
+    color: #c6d0f5;
+    font-size: 26px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#Input {
+    color: #c6d0f5;
+    font-weight: lighter;
+    font-size: 23px;
+    margin-bottom: 20px;
+}
+
+#palabra {
+    background-color: #626880;
+    color: #c6d0f5;
+}
+
+#Encriptar {
+    background-color: #626880;
+    color: #c6d0f5;
+    font-weight: lighter;
+    font-size: 20px;
+    margin-bottom: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    animation: backwards;
+}
+
+#Encriptar:hover {
+    background-color: #303446;
+    color: #c6d0f5;
+    font-weight: lighter;
+    font-size: 20px;
+    margin-bottom: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    animation: backwards;
+}
+
+#Desencriptar {
+    background-color: #626880;
+    color: #c6d0f5;
+    font-weight: lighter;
+    font-size: 20px;
+    margin-bottom: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    animation: backwards;
+}
+
+#Desencriptar:hover {
+    background-color: #303446;
+    color: #c6d0f5;
+    font-weight: lighter;
+    font-size: 20px;
+    margin-bottom: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    animation: backwards;
+}
+
+#Resultado {
+    color: #c6d0f5;
+    font-weight: lighter;
+    font-size: 25px;
+    margin-bottom: 20px;
+    background-color: #303446;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    animation: backwards;
+}
+
+#copiar {
+    background-color: #626880;
+    color: #c6d0f5;
+    font-weight: lighter;
+    font-size: 20px;
+    margin-bottom: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    animation: backwards;
+}
+
+#copiar:hover {
+    background-color: #303446;
+    color: #c6d0f5;
+    font-weight: lighter;
+    font-size: 20px;
+    margin-bottom: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    animation: backwards;
+}
+
+.boton {
+    background-color: #626880;
+    color: #c6d0f5;
+    font-weight: lighter;
+    font-size: 20px;
+    margin-bottom: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    animation: backwards;
+}
+
+.boton:hover {
+    background-color: #303446;
+    color: #c6d0f5;
+    font-weight: lighter;
+    font-size: 20px;
+    margin-bottom: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    animation: backwards;
+}
+
+.alura {
+    color: #c6d0f5;
+    font-weight: lighter;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+    background-color: #626880;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    animation: backwards;
+}
+
+.alura:hover{
+    color: #c6d0f5;
+    font-weight: lighter;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+    background-color: #303446;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    animation: backwards;
+}

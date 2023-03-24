@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>CHALLENGE ALURA</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <script src="main.js"></script>
+    </head>
+    <body id="completo">
+        <h1 id="titulo">CHALLENGE ENCRIPTADOR</h1>
+        <label for="palabra" id="Input">Ingresa Una Palabra O Frase:</label><br />
+        <input type="text" id="palabra" name="palabra" /><br /><br />
+        <button onclick="document.getElementById('resultado').innerHTML = encriptar(document.getElementById('palabra').value)" id="Encriptar">Encriptar</button>
+        <button onclick="document.getElementById('resultado').innerHTML = desencriptar(document.getElementById('palabra').value)" id="Desencriptar">Desencriptar</button>
+        <button onclick="copiarAlPortapapeles()" id="copiar">Copiar</button><br /><br />
+        <label for="resultado">Resultado:</label><br />
+        <p id="resultado"></p>
+    </body>
+    <body>
+        <div id="footer">
+            <p>Hecho Por: <a href="https://github.com/Back-Hen" class="boton">Visitame</a></p>
+            <p>Agradecimientos A: <a href="https://www.aluracursos.com/" class="alura">Alura Latam</a></p>
+    </body>
+</html>
